@@ -110,7 +110,6 @@ const Feedback = () => {
               width: "300px",
               height: "80px",
               display: "flex",
-              textAlign: "center",
               alignItems: "center",
               p: 1,
               mt: 5,
