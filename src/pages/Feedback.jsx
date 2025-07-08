@@ -116,10 +116,7 @@ const Feedback = () => {
             }}
           >
             <Box sx={{ margin: "5px", m: "auto" }}>
-              <Typography
-                sx={{ alignContent: "center", textAlign: "center" }}
-                variant="h6"
-              >
+              <Typography sx={{ alignContent: "center" }} variant="h6">
                 Have a Feedback?
               </Typography>
 
