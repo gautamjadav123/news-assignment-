@@ -106,7 +106,6 @@ const Feedback = () => {
 
           <Box
             sx={{
-              textAlign: "center",
               backgroundColor: "#fff",
               width: "300px",
               height: "80px",
